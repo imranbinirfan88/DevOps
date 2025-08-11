@@ -1,0 +1,4 @@
+#!/bin/bash
+# Assign a value to a variable
+read="name"
+echo "Hello, $name!"

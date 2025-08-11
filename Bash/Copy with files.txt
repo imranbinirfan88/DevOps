@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Source folder
+src="Grade 01"
+
+# Loop from 2 to 12
+for i in $(seq -w 2 12); do
+    # Create destination folder name, e.g., "Grade 02"
+    dest="Grade $i"
+    
+    # Copy the folder and its contents
+    cp -r "$src" "$dest"
+    
+    echo "Copied to $dest"
+done

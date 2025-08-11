@@ -1,0 +1,19 @@
+Grade 3 GS 44
+Grade 4 GS 48
+Grade 5 GS 30
+Grade 6 GS 33
+Grade 7 GS 46
+Grade 8 GS 45
+Total 246
+
+
+
+Grade 3 BS 50
+Grade 4 BS 39
+Grade 5 BS 54
+Grade 6 BS 66
+Grade 7 BS 46
+Grade 8 BS 43
+Total 298
+
+Total 544
