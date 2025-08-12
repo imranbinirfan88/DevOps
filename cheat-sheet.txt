@@ -1,13 +1,9 @@
 Complete Git and GitHub Commands Cheat Sheet
 Option 1: Delete Remote Branch Using Git Bash
-Syntax:
-bash
-Copy
 
 git push origin --delete branch-name
 Example (delete master branch):
-bash
-Copy
+
 
 git push origin --delete master
 Basic Git Commands
