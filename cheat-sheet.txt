@@ -19,7 +19,7 @@ git init  # Initialize new local repository
 git clone <url>  # Clone remote repository
 git clone <url> <directory_name>  # Clone into specific directory
 Basic Workflow
-bash
+
 git status  # Check status of working directory
 git add <file>  # Add file to staging area
 git add .  # Add all changed files to staging
