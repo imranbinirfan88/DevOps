@@ -58,7 +58,7 @@ git push -u <remote> <branch>  # Push and set upstream
 git push --force  # Force push (use with caution)
 git push --tags  # Push all tags
 History and Logs
-bash
+
 git log  # Show commit logs
 git log --oneline  # Compact log view
 git log --graph --oneline --decorate --all  # Fancy graph view
