@@ -44,7 +44,7 @@ git merge --abort  # Abort a merge with conflicts
 git rebase <branch>  # Rebase current branch onto another branch
 git rebase --abort  # Abort a rebase
 Remote Repositories
-bash
+
 git remote -v  # List remote repositories
 git remote add <name> <url>  # Add new remote repository
 git remote remove <name>  # Remove remote
